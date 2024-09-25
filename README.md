@@ -136,6 +136,4 @@ After training refer to infer.ipynb<br>
 ## References
 
 - [VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103)
-- [A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)](https://github.com/keithito/tacotron)
 
-# vits
